@@ -4,3 +4,6 @@ This line is in local
 This lline is in local
 This line is on Github
 This line is on Github
+
+
+To fix a merge resolve you have to hit cTRL + T and then commit the new changes to the file
